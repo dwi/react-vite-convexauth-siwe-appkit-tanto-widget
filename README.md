@@ -68,8 +68,5 @@ bun lint         # Run linting
 
 - [Convex Docs](https://docs.convex.dev/) - Complete documentation
 - [SIWE Specification](https://eips.ethereum.org/EIPS/eip-4361) - EIP-4361 standard
+- [Tanto Widget](https://docs.skymavis.com/ronin/wallet/tutorials/tanto-widget) - Tanto Widget SDK
 - [Convex Discord](https://convex.dev/community) - Get help
-
-## 🏷️ Tags
-
-`wallet-authentication` `siwe` `eip-4361` `convex` `react` `template`
