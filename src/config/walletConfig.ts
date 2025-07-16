@@ -24,7 +24,7 @@ export const WALLET_CONFIG = {
     },
     // Featured wallets (Ronin wallet)
     featuredWalletIds: [
-      'c7708575a2c3c9e6a8ab493d56cdcc56748ef4b18612e9b6e3f65423a9c3b969', // Ronin Wallet
+      '541d5dcd4ede02f3afaf75bf8e3e4c4f1fb09edb5fa6c4377ebf31c2785d9adf', // Ronin Wallet
     ],
   },
   
